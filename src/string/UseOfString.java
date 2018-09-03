@@ -2,8 +2,8 @@ package string.example;
 
 public class UseOfString {
     public static void main(String[] args) {
-        String st = "We are java programmer";
-        String st2 = "We are java programmer";
+        String st = "We are going to be java programmers";
+        String st2 = "We are going to be java programmers";
         st2 = st2.toUpperCase();
         System.out.println(st.toUpperCase());
         System.out.println(st.toLowerCase());
