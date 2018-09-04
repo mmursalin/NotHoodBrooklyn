@@ -13,6 +13,7 @@ public class UseOfIterator {
         System.out.println("I succesfully enhanced my code");
 
         Iterator it = list.iterator();
+        //while loop
         while(it.hasNext()){
             System.out.println(it.next());
         }
